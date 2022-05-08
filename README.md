@@ -19,6 +19,7 @@ The explanation and *journey* through the data is avaiable at [rubiks_cubes.ipyn
 Additionally a web-tutorial is available at [Rubiks Repo](https://github.com/Camelot314/rubiks)
 
 ### Files and Directories
-- `.ipynb_checkpoints` - Meta data for jupyter notebook. Not necessary for any understanding
+- `.ipynb_checkpoints/` - Meta data for jupyter notebook. Not necessary for any understanding
+- `count_code.py` - A small python scrpt to count the lines of code in a jupyter file. NOT MINE. It was originally posted at: https://www.javaer101.com/en/article/16819003.html
 - `read_ts.py` - A small python script to read the first 50 lines of a file. It was used to make sure tsv files were formatted correctly
 - `rubiks_cubes.ipynb` - The jupter notebook with all the code used in the analysis.
